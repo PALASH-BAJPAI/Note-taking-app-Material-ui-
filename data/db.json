@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Complete material ui",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipis vulputate adip ",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipis vulputate adip ",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Palash Birthday",
+      "details": "Let's celebrate the year's biggest event. Join the party to have the best experience of your life.",
+      "category": "reminders",
+      "id": 4
+    },
+    {
+      "title": "Buy Iphone",
+      "details": "Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.Get a new phone.",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "learn Pandas",
+      "details": "Continuing learning process",
+      "category": "work",
+      "id": 6
+    },
+    {
+      "title": "Learn Framer",
+      "details": "Needed for the animation on react components.",
+      "category": "work",
+      "id": 7
+    },
+    {
+      "title": "Install Figma",
+      "details": "For the designing of application",
+      "category": "reminders",
+      "id": 8
+    },
+    {
+      "title": "Competitive Coding",
+      "details": "Learn graphs and specially shortest path problems",
+      "category": "work",
+      "id": 9
+    }
+  ]
+}
